@@ -1,4 +1,4 @@
-# WiFi-Portal([中文](https://github.com/zhaojh329/wifi-portal/master/README_ZH.md))
+# WiFi-Portal([中文](https://github.com/zhaojh329/wifi-portal/blob/master/README_ZH.md))
 
 ![](https://img.shields.io/badge/license-GPL_2-green.svg "License")
 
