@@ -1,6 +1,6 @@
 # WiFi-Portal([中文](https://github.com/zhaojh329/wifi-portal/blob/master/README_ZH.md))
 
-![](https://img.shields.io/badge/license-GPL_2-green.svg "License")
+![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
 WiFi-Portal is a very efficient captive portal solution for wireless
 router which with embeded linux(LEDE/Openwrt) system. It's referenced wifidog

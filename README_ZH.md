@@ -1,6 +1,6 @@
 ﻿# WiFi-Portal
 
-![](https://img.shields.io/badge/license-GPL_2-green.svg "License")
+![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
 WiFi-Portal是一个非常高效的portal认证解决方案。它参考了wifidog和apfree_wifidog，
 是一个全新的portal认证解决方案，代码简洁，框架清晰。与wifidog和apfree_wifidog
