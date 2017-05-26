@@ -1,13 +1,13 @@
-# WiFi-Portal
+ï»¿# WiFi-Portal
 
 ![](https://img.shields.io/badge/license-GPL_2-green.svg "License")
 
-WiFi-PortalÊÇÒ»¸ö·Ç³£¸ßÐ§µÄportalÈÏÖ¤½â¾ö·½°¸¡£Ëü²Î¿¼ÁËwifidogºÍapfree_wifidog£¬
-ÊÇÒ»¸öÈ«ÐÂµÄportalÈÏÖ¤½â¾ö·½°¸£¬´úÂë¼ò½à£¬¿ò¼ÜÇåÎú¡£ÓëwifidogºÍapfree_wifidog
-²»Í¬µÄÊÇ£¬wifi-portalÍ¨¹ý±àÐ´ÄÚºËÄ£¿éÊµÏÖÈÏÖ¤¹ÜÀí£¬¶ø²»ÊÇÍ¨¹ýiptables´´½¨·À»ðÇ½¹æÔò¡£
+WiFi-Portalæ˜¯ä¸€ä¸ªéžå¸¸é«˜æ•ˆçš„portalè®¤è¯è§£å†³æ–¹æ¡ˆã€‚å®ƒå‚è€ƒäº†wifidogå’Œapfree_wifidogï¼Œ
+æ˜¯ä¸€ä¸ªå…¨æ–°çš„portalè®¤è¯è§£å†³æ–¹æ¡ˆï¼Œä»£ç ç®€æ´ï¼Œæ¡†æž¶æ¸…æ™°ã€‚ä¸Žwifidogå’Œapfree_wifidog
+ä¸åŒçš„æ˜¯ï¼Œwifi-portalé€šè¿‡ç¼–å†™å†…æ ¸æ¨¡å—å®žçŽ°è®¤è¯ç®¡ç†ï¼Œè€Œä¸æ˜¯é€šè¿‡iptablesåˆ›å»ºé˜²ç«å¢™è§„åˆ™ã€‚
 
-## ÌØÐÔ:
-* Í¨¹ý±àÐ´ÄÚºËÄ£¿éÊµÏÖÈÏÖ¤¹ÜÀí£¬¶ø²»ÊÇÍ¨¹ýiptables´´½¨·À»ðÇ½¹æÔò
-* Ö§³ÖHTTPºÍHTTPS
-* SSL¿â¿ÉÒÔÑ¡Ôñopenssl»òÕßmbedtls
-* Ö§³ÖÔ¶³Ì¿ØÖÆºÍÅäÖÃ
+## ç‰¹æ€§:
+* é€šè¿‡ç¼–å†™å†…æ ¸æ¨¡å—å®žçŽ°è®¤è¯ç®¡ç†ï¼Œè€Œä¸æ˜¯é€šè¿‡iptablesåˆ›å»ºé˜²ç«å¢™è§„åˆ™
+* æ”¯æŒHTTPS
+* SSLåº“å¯ä»¥é€‰æ‹©opensslæˆ–è€…mbedtls
+* æ”¯æŒè¿œç¨‹æŽ§åˆ¶å’Œé…ç½®

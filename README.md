@@ -10,6 +10,6 @@ authentication management instead of using iptables to create firewall rules.
 
 ## features:
 * Write kernel module to implement authentication management instead of using iptables to create firewall rules
-* Support for HTTP and HTTPS
+* Support HTTPS
 * Alternative openssl and mbedtls
 * Support remote control and configure
