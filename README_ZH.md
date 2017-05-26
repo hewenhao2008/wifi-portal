@@ -7,6 +7,7 @@ WiFi-Portal是一个非常高效的portal认证解决方案。它参考了wifido
 不同的是，wifi-portal通过编写内核模块实现认证管理，而不是通过iptables创建防火墙规则。
 
 ## 特性:
+* 采用高效的事件库libev
 * 通过编写内核模块实现认证管理，而不是通过iptables创建防火墙规则
 * 支持HTTPS
 * SSL库可以选择openssl或者mbedtls

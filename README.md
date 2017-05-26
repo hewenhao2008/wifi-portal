@@ -9,6 +9,7 @@ wifidog and apfree_wifidog, wifi-portal does write kernel module to implement
 authentication management instead of using iptables to create firewall rules.
 
 ## features:
+* Use libev
 * Write kernel module to implement authentication management instead of using iptables to create firewall rules
 * Support HTTPS
 * Alternative openssl and mbedtls
