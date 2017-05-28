@@ -1,4 +1,4 @@
-﻿# WiFi-Portal
+# WiFi-Portal
 
 ![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 

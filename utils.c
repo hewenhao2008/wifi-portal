@@ -29,7 +29,7 @@ char *get_iface_ip(const char *ifname)
     struct in_addr in;
     char *ip_str;
     int sockd;
-    u_int32_t ip;
+    uint32_t ip;
 
     /* Create a socket */
     if ((sockd = socket(AF_INET, SOCK_DGRAM, 0)) < 0) {
