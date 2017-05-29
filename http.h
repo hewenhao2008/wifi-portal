@@ -18,6 +18,5 @@
 #include <mongoose.h>
 
 void http_handle(struct mg_connection *c, struct http_message *hm);
-void check_internet(struct mg_mgr *mgr);
 
 #endif
